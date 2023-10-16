@@ -1,7 +1,7 @@
 
 
 import './App.css'
-import Counter from './counter'
+import Counter from './Component/Counter'
 
 
 function App() {

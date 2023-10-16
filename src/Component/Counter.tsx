@@ -1,6 +1,6 @@
 import { useDispatch, useSelector , } from "react-redux"
 import {increment , desIncrement,reset} from './counterSlice'
-import { RootState } from "./store"
+import { RootState } from "../store"
 
 
 const Counter = () => {
